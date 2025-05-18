@@ -1,3 +1,4 @@
+# Vegvísir
 Customized transformer model for use with my, in development, LLM 'Magi'.
 
 Intended to be trained on different sources of danish literatture, interpersonal interactions and job postings.
